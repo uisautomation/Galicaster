@@ -1,3 +1,5 @@
+Moved to https://gitlab.developers.cam.ac.uk/uis/devops/lecture-capture/Galicaster
+
 What is Galicaster?
 ===================
 
@@ -33,6 +35,3 @@ Contributions must follow good PEP-8, PEP-257 style:
     http://www.python.org/dev/peps/pep-0008/
 
     http://www.python.org/dev/peps/pep-0257/
-    
-   
-Repository moved to https://gitlab.developers.cam.ac.uk/uis/devops/lecture-capture/Galicaster
